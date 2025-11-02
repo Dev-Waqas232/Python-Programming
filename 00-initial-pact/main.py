@@ -1,1 +1,0 @@
-print("So I am going to start this course on 19 August 2025, better need to finish it till the end of September 2025.")
